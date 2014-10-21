@@ -1,0 +1,6 @@
+
+*.pyc
+
+BloggerAPI/client_secrets.json
+
+*.dat
